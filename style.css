@@ -472,7 +472,7 @@ footer .copyright{
         transition: 0.3s;
     }
     #navbar.active{
-        right: 0;
+        right: -100px;
     }
     #navbar li{
         margin-bottom: 25px;
